@@ -63,7 +63,7 @@ Load the model on ESP32 using EloquentTinyML.
 Evaluate model performance using accuracy, loss curves, and confusion matrix.
 Validate inference on ESP32's serial monitor.
 
-- Results
+#### Results:
 Accuracy: Achieved ~97% accuracy on the validation set after 9 epochs.
 Loss Reduction: Significant reduction in training and validation loss over epochs.
 Confusion Matrix: Demonstrated effective classification with minimal misclassifications.
